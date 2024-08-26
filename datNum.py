@@ -1,0 +1,11 @@
+x=10
+y=5.678
+z=1.2e6
+is_true=True
+is_false=False
+print(type(x))
+print(type(y))
+print(z)
+print(x+x)
+print(type(is_false))
+print(is_true)

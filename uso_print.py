@@ -1,0 +1,7 @@
+print("uso de las comas :,")
+print("Nunca", "pares", "de", "aprender")
+print("uso del sep=\" \" ")
+print("Nunca", "pares", "de", "aprender", sep=", ")
+print("uso de end=\' \'")
+print("Nunca", end=" ")
+print("pares de aprender")

@@ -1,0 +1,7 @@
+print("uso del input()")
+nombre=input("ingrese su nom:")
+print(nombre)
+edad=int(input("ingrese la edad:"))
+print(edad)
+print(type(nombre))
+print(type(edad))
